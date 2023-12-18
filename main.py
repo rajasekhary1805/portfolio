@@ -17,3 +17,8 @@ with col2:
     where I can apply my skills to solve complex problems.
     """
     sl.info(content)
+
+content2 = """
+Below you can find some of the apps i have built in Python. Feel free to contact me!
+"""
+sl.write(content2)
